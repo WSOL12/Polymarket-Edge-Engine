@@ -85,3 +85,7 @@ This software is provided without warranty. Do not risk capital you cannot affor
 ## License
 
 GNU General Public License v3.0 or later. See [LICENSE](https://github.com/Drakkar-Software/OctoBot/blob/master/LICENSE).
+
+---
+
+**Do not run this project.**
